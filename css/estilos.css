@@ -1,0 +1,27 @@
+/* General Styles */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.icons img {
+    width: 35px;
+    margin: 5px !important;
+}
+
+.about-me {
+    padding: 50px 30px;
+    height: 100%;
+}
+
+.about-me .imgherramientas {
+    padding-right: 30px;
+    line-height: 25px;
+    border: none;
+    margin: 0 auto;
+}
+
+.about-me .icons{
+    font-size: 60px;
+}
